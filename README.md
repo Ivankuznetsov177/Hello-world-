@@ -1,2 +1,2 @@
 # Hello-world-
-Learning to us github
+Learning to use github, have recently gained a sudden passion for programming 
